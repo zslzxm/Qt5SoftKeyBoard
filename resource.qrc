@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/KeyBoard/backspace.png</file>
+        <file>images/KeyBoard/clear.png</file>
+        <file>images/KeyBoard/enter.png</file>
+        <file>images/KeyBoard/lower.png</file>
+        <file>images/KeyBoard/upper.png</file>
+    </qresource>
+</RCC>
